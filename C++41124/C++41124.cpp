@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    Set set1 = new Set();
-    Set set2 = new Set();
+    Set set1;
+    Set set2;
 
     set1 += 1;
     set1 += 2;
